@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LeagueApi</name>
+    </assembly>
+    <members>
+        <member name="T:LeagueApi.Data.Migrations.InitialClean">
+            <inheritdoc />
+        </member>
+        <member name="M:LeagueApi.Data.Migrations.InitialClean.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LeagueApi.Data.Migrations.InitialClean.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LeagueApi.Data.Migrations.InitialClean.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:LeagueApi.Data.Migrations.AddKickoffUtcToMatch">
+            <inheritdoc />
+        </member>
+        <member name="M:LeagueApi.Data.Migrations.AddKickoffUtcToMatch.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LeagueApi.Data.Migrations.AddKickoffUtcToMatch.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:LeagueApi.Data.Migrations.AddKickoffUtcToMatch.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
