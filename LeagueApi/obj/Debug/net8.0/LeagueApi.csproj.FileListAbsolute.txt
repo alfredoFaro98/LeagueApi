@@ -159,3 +159,4 @@ C:\Users\alfredo\Desktop\LeagueApiClean\LeagueApi\obj\Debug\net8.0\LeagueApi.gen
 C:\Users\alfredo\Desktop\LeagueApiClean\LeagueApi\obj\Debug\net8.0\ref\LeagueApi.dll
 C:\Users\alfredo\Desktop\LeagueApiClean\LeagueApi\bin\Debug\net8.0\LeagueApi.xml
 C:\Users\alfredo\Desktop\LeagueApiClean\LeagueApi\obj\Debug\net8.0\LeagueApi.xml
+C:\Users\alfredo\Desktop\LeagueApiClean\LeagueApi\obj\Debug\net8.0\LeagueApi.sourcelink.json
